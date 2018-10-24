@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Placa do elevador-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -19,7 +20,7 @@ U 1 1 5BBD510B
 P 2650 2625
 F 0 "J1" H 2570 4117 50  0000 C CNN
 F 1 "DB25_Female" H 2570 4026 50  0000 C CNN
-F 2 "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm" H 2650 2625 50  0001 C CNN
+F 2 "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm" H 2650 2625 50  0001 C CNN
 F 3 " ~" H 2650 2625 50  0001 C CNN
 	1    2650 2625
 	-1   0    0    -1  

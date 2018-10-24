@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source "/home/arthur/Documents/Kicad Projects/Elevador-de-metal-2018-2/Placa do elevador/Placa do elevador.sch")
-    (date "Ter 09 Out 2018 23:26:47 -03")
-    (tool "Eeschema 5.0.0-fee4fd1~66~ubuntu16.04.1")
+    (source "/home/arthur/Documents/GitHub/01 - Kicad/Elevador-UFES-2018-2/Placa do elevador controlador femea/Placa do elevador.sch")
+    (date "Qua 24 Out 2018 13:22:38 -03")
+    (tool "Eeschema 5.0.1-33cea8e~68~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title "Placa do elevador de Aço - Ufes - 2018 - 2")
@@ -17,7 +17,7 @@
   (components
     (comp (ref J1)
       (value DB25_Female)
-      (footprint Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm)
+      (footprint Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm)
       (datasheet " ~")
       (libsource (lib Connector) (part DB25_Female) (description "25-pin female D-SUB connector"))
       (sheetpath (names /) (tstamps /))
